@@ -20,7 +20,7 @@ Installation
 
 First, you need to make sure you have node.js up and running ([nodejs.org](http://nodejs.org/))
 
-Unzip this folder to your local environment amd then in the folder, go to your command line and run npm install to install the required modules. Once this is done you can run npm start in your command line, and then go to http://localhost:3000 in your browser. 
+Download this repository to your local environment amd then in the folder, go to your command line and run npm install to install the required modules. Once this is done you can run npm start in your command line, and then go to http://localhost:3000 in your browser. 
 
 Known Issues / Assumptions
 ==========================
