@@ -1,0 +1,59 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Open Sans', sans-serif !important;
+    background: #b3b3b0;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+
+.intro {
+    padding: 0px 0px 30px 0px;
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 20px 0 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.waiting-for-player {
+    display: block;
+}
+
+.question, .round-count, .leave-game, .score-row, .retry-game {
+    padding: 5px;
+    font-size: 1.6em;
+    font-weight: bold;
+    text-shadow: 1px;
+    text-align: center;
+}
+
+.logo {
+    background: url('/images/imdb.png') no-repeat center;
+    display: inline-block;
+    width: 101px;
+    height: 49px;
+    text-indent: -9999px;
+}
+
+.player-info {
+    display: none;
+    padding: 0px 0px 30px 0px;
+}
+
+#waiting, .results-success, .results, .results-fail, .results-draw, .game {
+    display: none;
+}
+
+.results-success, .results-draw, .results-fail {
+    margin: 25px;
+}
+
+.row h2, .row h3, .row p {
+    padding-left: 15px;
+}

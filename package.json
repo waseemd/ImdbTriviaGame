@@ -1,0 +1,19 @@
+{
+  "name": "imdb-trivia",
+  "version": "1.0.0",
+  "description": "A realtime online multiplayer game.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Waseem Dawood",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.14.0",
+    "jquery": "^3.3.1",
+    "node-fetch": "^2.3.0",
+    "skeleton-css": "^2.0.4",
+    "socket.io": "^1.7.1"
+  }
+}
