@@ -1,4 +1,4 @@
-IMDb Trivia Game
+IMDb Trivia Game Assessment
 ==============
 
 You are required to develop a simple movie trivia PWA. 
@@ -13,7 +13,7 @@ The player with the highest score at the end of the game wins. The game needs to
 
 Include notes on how to run your solution and any other info(assumptions, known bugs, etc.) 
 
-The PWA should be launched using Node.js and utilise socket.io. Frontend can be in either AngularJS or React
+The PWA should be launched using Node.js and utilise socket.io. 
 
 Installation
 =============
